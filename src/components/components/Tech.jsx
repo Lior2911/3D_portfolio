@@ -30,7 +30,7 @@ const Tech = () => {
       </motion.p>
 <br />
       <motion.div variants={textVariant()}>
-        <p className={styles.sectionSubText}>my Stuck include the next technology :</p>
+        <p className={styles.sectionSubText}>my Stack include the next technology :</p>
        
       </motion.div>
       <div className="flex flex-row flex-wrap justify-center gap-10">
